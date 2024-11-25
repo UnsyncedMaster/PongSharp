@@ -21,6 +21,7 @@ PongSharp is a simple implementation of the classic Pong game, written in C# for
 
 ### Steps to Install
 
+Option 1 : Git And Building It Yourself.
 1. Clone the repository:
 
    ```bash
@@ -30,6 +31,9 @@ PongSharp is a simple implementation of the classic Pong game, written in C# for
 4. Open the solution file (Pong.sln) in Visual Studio or your preferred IDE.
 
 Build and run the project using your IDE's tools.
+
+Option 2 : Using The Pre-built Version
+Go To [This Link](https://github.com/UnsyncedMaster/PongSharp/releases/tag/v0.01) To Download The Pre-built .EXE
 
 # Contribution
 Fork the repository.
