@@ -33,7 +33,7 @@ Option 1 : Git And Building It Yourself.
 Build and run the project using your IDE's tools.
 
 Option 2 : Using The Pre-built Version
-Go To [This Link](https://github.com/UnsyncedMaster/PongSharp/releases/tag/v0.01) To Download The Pre-built .EXE
+Go To [This Link](https://github.com/UnsyncedMaster/PongSharp/releases/tag/v0.01) or To Download The Pre-built .EXE, Or [Click Here](https://github.com/UnsyncedMaster/PongSharp/releases/download/v0.01/Pong.zip) To Instantly Download It.
 
 # Contribution
 Fork the repository.
