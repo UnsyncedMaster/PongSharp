@@ -24,7 +24,7 @@ PongSharp is a simple implementation of the classic Pong game, written in C# for
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PongSharp.git
+   git clone https://github.com/UnsyncedMaster/PongSharp.git
 2. Navigate to the project directory:
 3. ```cd PongSharp```
 4. Open the solution file (Pong.sln) in Visual Studio or your preferred IDE.
